@@ -6,8 +6,8 @@ const RouterDOM = () => {
 	return (
 		<Router>
 			<Switch>
-				<Route exact path="/"><HomePage /></Route>
-				<Route exact path="/desktop1"><Desktop1 /></Route>
+				{/* <Route exact path="/"><HomePage /></Route> */}
+				<Route exact path="/"><Desktop1 /></Route>
 			</Switch>
 		</Router>
 	);
