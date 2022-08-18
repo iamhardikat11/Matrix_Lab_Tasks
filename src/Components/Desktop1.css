@@ -242,7 +242,7 @@
 	position: relative;
 	flex: none;
 	margin-right: 14px;
-	width: 70px;
+	width: 105px;
 	height: 36px;
 	color: rgba(255,255,255,1.00);
 	font-family: Poppins;
@@ -251,11 +251,11 @@
 	line-height: 28.125px;
 }
 .Desktop1_Desktop1 .kuppysystem .caninemaster .caninemaster_1 .img .btns .Btn_1 .angles_1 {
-	position: relative;
-	flex: none;
-	margin-right: 14px;
+	position: absolute;
+	left: 0px;
+	top: 28.85791015625px;
 	width: 309.2842712402344px;
-	height: 28.28424072265625px;
+	height: 28.2843017578125px;
 }
 .Desktop1_Desktop1 .kuppysystem .caninemaster .caninemaster_1 .img .btns .Btn_1 .angles_1 .Rectangle8_1 {
 	position: absolute;
@@ -277,13 +277,13 @@
 	position: relative;
 	flex: none;
 	margin-bottom: 23.759037017822266px;
-	width: 276.3975830078125px;
+	width: 282px;
 	height: 84px;
 	display: flex;
 	padding-top: 24px;
-	padding-right: 58.698795318603516px;
+	padding-right: 58px;
 	padding-bottom: 24px;
-	padding-left: 58.698795318603516px;
+	padding-left: 58px;
 	box-sizing: border-box;
 	justify-content: center;
 	align-items: center;
@@ -305,24 +305,24 @@
 	height: 60.76677110460069%;
 }
 .Desktop1_Desktop1 .kuppysystem .caninemaster .caninemaster_1 .img .btns .Btn_2 .claritycontractline .Vector_3 {
-	position: absolute;
-	left: 2px;
-	top: 2px;
-	width: 77.77777777777779%;
-	height: 88.88888888888889%;
+	position: relative;
+	flex: none;
+	margin-right: 14px;
+	width: 36px;
+	height: 36px;
 }
 .Desktop1_Desktop1 .kuppysystem .caninemaster .caninemaster_1 .img .btns .Btn_2 .claritycontractline .Vector_4 {
 	position: absolute;
-	left: 17.371734619140625px;
-	top: 8.4263916015625px;
-	width: 48.14843071831597%;
-	height: 46.17055257161458%;
+	left: 2.531219482421875px;
+	top: 2.53021240234375px;
+	width: 85.94046698676216%;
+	height: 85.9405517578125%;
 }
 .Desktop1_Desktop1 .kuppysystem .caninemaster .caninemaster_1 .img .btns .Btn_2 .Lable_2 {
 	position: relative;
 	flex: none;
 	margin-right: 14px;
-	width: 109px;
+	width: 105px;
 	height: 36px;
 	color: rgba(255,255,255,1.00);
 	font-family: Poppins;
@@ -331,9 +331,9 @@
 	line-height: 28.125px;
 }
 .Desktop1_Desktop1 .kuppysystem .caninemaster .caninemaster_1 .img .btns .Btn_2 .angles_2 {
-	position: relative;
-	flex: none;
-	margin-right: 14px;
+	position: absolute;
+	left: 0px;
+	top: 28.85791015625px;
 	width: 309.2842712402344px;
 	height: 28.2843017578125px;
 }
@@ -9376,7 +9376,7 @@
 	margin-bottom: 20px;
 	width: 100%;
 	align-self: center;
-	/* height: 77px; */
+	height: 77px;
 	color: rgba(0,0,0,1.00);
 	font-family: Montserrat;
 	font-size: 64px;
